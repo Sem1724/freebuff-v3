@@ -28,7 +28,6 @@ Gambar ada di `public/images`.
 ## Form kontak
 
 GitHub Pages tidak punya server, jadi:
-- Repo PortoProTestEdit adalah sama dengan Repo freebuff-v3
 - **Default:** tombol Kirim membuka aplikasi email pengunjung dengan pesan terisi.
 - **Kirim langsung (opsional):** buat form di [Formspree](https://formspree.io), lalu di repo buka
   **Settings → Secrets and variables → Actions → Variables** dan tambahkan
