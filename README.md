@@ -32,3 +32,11 @@ GitHub Pages tidak punya server, jadi:
 - **Kirim langsung (opsional):** buat form di [Formspree](https://formspree.io), lalu di repo buka
   **Settings → Secrets and variables → Actions → Variables** dan tambahkan
   `VITE_FORM_ENDPOINT` berisi URL form Anda. Build berikutnya otomatis memakainya.
+
+## Untukku
+Sumbernya :
+- Repo ini alias `freebuff-v3` adalah sama dengan Repo  `PortoProTestEdit` lokasi di explorernya pun sama
+- Bikin ini di `https://freebuff.com/` AI untuk koding. (Cuma percobaan makanya akunya pake temporer)
+- Abis itu di download
+- Hasil download berupa ZIP lalu masukin ke Claude minta ubah biar kompatible untuk GitHub
+- **Nama di Explorer win : C:\YOZH\Production\Dev Production\webportf-freebuff\v3-cloudeFix (Disesuaikan Claude)**
