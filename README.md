@@ -39,4 +39,4 @@ Sumbernya :
 - Bikin ini di `https://freebuff.com/` AI untuk koding. (Cuma percobaan makanya akunya pake temporer)
 - Abis itu di download
 - Hasil download berupa ZIP lalu masukin ke Claude minta ubah biar kompatible untuk GitHub
-- **Nama di Explorer win : C:\YOZH\Production\Dev Production\webportf-freebuff\v3-cloudeFix (Disesuaikan Claude)**
+- **Nama di Explorer win : cari aja di dev production/webportf-freebuff/v3-cloudeFix (Disesuaikan Claude)**
